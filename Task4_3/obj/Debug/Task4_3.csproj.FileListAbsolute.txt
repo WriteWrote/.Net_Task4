@@ -1,0 +1,7 @@
+D:\XXX\WorkingFiles\C#_2021\Task4_3\Task4_3\bin\Debug\Task4_3.exe
+D:\XXX\WorkingFiles\C#_2021\Task4_3\Task4_3\bin\Debug\Task4_3.pdb
+D:\XXX\WorkingFiles\C#_2021\Task4_3\Task4_3\obj\Debug\Task4_3.csproj.AssemblyReference.cache
+D:\XXX\WorkingFiles\C#_2021\Task4_3\Task4_3\obj\Debug\Task4_3.csproj.SuggestedBindingRedirects.cache
+D:\XXX\WorkingFiles\C#_2021\Task4_3\Task4_3\obj\Debug\Task4_3.csproj.CoreCompileInputs.cache
+D:\XXX\WorkingFiles\C#_2021\Task4_3\Task4_3\obj\Debug\Task4_3.exe
+D:\XXX\WorkingFiles\C#_2021\Task4_3\Task4_3\obj\Debug\Task4_3.pdb
